@@ -22,9 +22,6 @@ AppKey: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 4. Verify your AppServer by [VerifyServer](../verify/README.md).
 
-![AppServer Success](images/app-ok.png)
-
-![AppServer Failed](images/app-failed.png)
 
 > Remark: You can setup client native SDK by `http://30.2.228.19:8080/app/v1`.
 
